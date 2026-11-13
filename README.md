@@ -1,4 +1,4 @@
-# Machine Learning & Artificial Intelligence Portfolio
+# Machine Learning Portfolio
 
 ### Mihnea-Ionuț Marinescu
 
