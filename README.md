@@ -78,11 +78,6 @@ Undergraduate coursework introducing fundamental concepts, algorithms, and compu
 
 *Lecture materials and implementations will be added.*
 
-### Computer Vision
-
-Undergraduate coursework focusing on computational methods for processing and interpreting visual information.
-
-*Lecture materials and implementations will be added.*
 
 ### AI-Based Computer Vision for Automated Driving
 
